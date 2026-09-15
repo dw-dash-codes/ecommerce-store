@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="100%" height="100%" fill="none">
+  <rect width="600" height="450" fill="#f8fafc"/>
+  <rect x="12" y="12" width="576" height="426" rx="8" stroke="#e2e8f0" stroke-width="2" stroke-dasharray="6 6" fill="#ffffff"/>
+  
+  <!-- Neutral hardware icon -->
+  <g transform="translate(240, 140)" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="10" y="10" width="100" height="70" rx="6"/>
+    <line x1="30" y1="100" x2="90" y2="100"/>
+    <line x1="60" y1="80" x2="60" y2="100"/>
+    <circle cx="60" cy="45" r="14"/>
+  </g>
+  
+  <text x="300" y="270" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#475569" letter-spacing="0.5">
+    PRODUCT IMAGE PLACEHOLDER
+  </text>
+  <text x="300" y="295" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94a3b8">
+    Replaceable with product photography
+  </text>
+  <text x="300" y="320" text-anchor="middle" font-family="monospace" font-size="10" fill="#cbd5e1">
+    /public/images/products/[slug]-1.jpg
+  </text>
+</svg>
